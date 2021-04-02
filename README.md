@@ -1,2 +1,2 @@
-# Logica-de-programa-ao
+# Logica-de-programacao
 Exercícios
